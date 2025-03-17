@@ -1,0 +1,11 @@
+bs4
+datetime
+deep-translator
+gTTS
+playsound==1.2.2
+pywhatkit
+requests
+speechrecognition
+streamlit
+textblob
+ffmpeg
